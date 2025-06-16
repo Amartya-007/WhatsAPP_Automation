@@ -48,7 +48,7 @@ A comprehensive Python application for sending WhatsApp messages using the Twili
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Amartya-007/WhatsAPP_Automation.git
    cd WhatsAPP_Automation
    ```
 
